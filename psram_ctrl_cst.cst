@@ -1,0 +1,25 @@
+IO_LOC "clk_27mhz" 52;
+
+IO_LOC "rst_button" 14;
+
+IO_LOC "led[0]" 10;
+IO_LOC "led[1]" 11;
+IO_LOC "led[2]" 13;
+IO_LOC "led[3]" 15;
+IO_LOC "led[4]" 16;
+IO_LOC "led[5]" 17;
+
+// ==================== PSRAM ====================
+IO_LOC "O_psram_ck" 47;
+IO_LOC "O_psram_ck_n" 48;
+IO_LOC "IO_psram_dq[0]" 38;
+IO_LOC "IO_psram_dq[1]" 39;
+IO_LOC "IO_psram_dq[2]" 41;
+IO_LOC "IO_psram_dq[3]" 42;
+IO_LOC "IO_psram_dq[4]" 83;
+IO_LOC "IO_psram_dq[5]" 84;
+IO_LOC "IO_psram_dq[6]" 85;
+IO_LOC "IO_psram_dq[7]" 86;
+IO_LOC "IO_psram_rwds" 87;
+IO_LOC "O_psram_cs_n" 28;
+IO_LOC "O_psram_reset_n" 88;
